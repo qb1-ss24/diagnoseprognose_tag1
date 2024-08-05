@@ -2,16 +2,16 @@
 
 ### Tag 1
 
-In der Differentialdiagnostik werden verschiedene diagnostische Tests nacheinander ausgeführt um eine Diagnose abzusichern. Welche Aussage ist falsch:
+In der Differentialdiagnostik werden verschiedene diagnostische Tests nacheinander ausgeführt um eine Diagnose abzusichern. Welche Aussage ist falsch:<br>
 
-1) Die Sensitivität und Spezifität der Tests sowie die Vortestwahrscheinlichkeit beeinflussen die positiven und negativen prädiktiven Werte.
-2) Durch den Einsatz von Tests mit unterschiedlichen Mechanismen und Zielstrukturen kann (im Vergleich zu nur einem durchgeführten Test) eine umfassendere Beurteilung des Patienten erfolgen, was zu einer präziseren Diagnose führt.
-3) Die Differentialdiagnostik erhöht die Prävalenz einer Krankheit in der getesteten Population, was die prädiktiven Werte verbessert.
-4) Die Nachtestwahrscheinlichkeit eines zuvor durchgeführten Tests, wird zur Vortestwahrscheinlichkeit eines im Anschluss durchgeführten Tests. 
+1) Die Sensitivität und Spezifität der Tests sowie die Vortestwahrscheinlichkeit beeinflussen die positiven und negativen prädiktiven Werte.<br>
+2) Durch den Einsatz von Tests mit unterschiedlichen Mechanismen und Zielstrukturen kann (im Vergleich zu nur einem durchgeführten Test) eine umfassendere Beurteilung des Patienten erfolgen, was zu einer präziseren Diagnose führt.<br>
+3) Die Differentialdiagnostik erhöht die Prävalenz einer Krankheit in der getesteten Population, was die prädiktiven Werte verbessert.<br>
+4) Die Nachtestwahrscheinlichkeit eines zuvor durchgeführten Tests, wird zur Vortestwahrscheinlichkeit eines im Anschluss durchgeführten Tests. <br>
 
 ### Tag 2
 
- Was ist eine Prävalenz und wofür benötigt man diese in Bezug auf diagnostische Tests? 
+ Was ist eine Prävalenz und wofür benötigt man diese in Bezug auf diagnostische Tests? <br>
  
 1)  Die Prävalenz ist die Anzahl der neuen Krankheitsfälle, die in einer bestimmten Population über einen bestimmten Zeitraum auftreten, und beeinflusst die prädiktiven Werte.
 2)  Die Prävalenz gibt an, wie genau ein diagnostischer Test in der Lage ist, eine Krankheit zu erkennen.
