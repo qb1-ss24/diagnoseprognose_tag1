@@ -9,9 +9,9 @@
 
 2)	Was ist eine Prävalenz und wofür benötigt man diese in Bezug auf diagnostische Tests? (damit kämpfen die Studenten häufig)
         1.	Die Prävalenz ist die Anzahl der neuen Krankheitsfälle, die in einer bestimmten Population über einen bestimmten Zeitraum auftreten, und beeinflusst die prädiktiven Werte.
-       2.	Die Prävalenz gibt an, wie genau ein diagnostischer Test in der Lage ist, eine Krankheit zu erkennen.
-       3.	 Die Prävalenz ist die Wahrscheinlichkeit, dass ein Patient ein positives Testergebnis erhält, unabhängig davon, ob er die Krankheit tatsächlich hat oder nicht.
-       4.	Die Prävalenz ist der Anteil der Personen in einer bestimmten Population, die zu einem bestimmten Zeitpunkt an einer bestimmten Krankheit leiden und beeinflusst die prädiktiven Werte.
+        2.	Die Prävalenz gibt an, wie genau ein diagnostischer Test in der Lage ist, eine Krankheit zu erkennen.
+        3.	 Die Prävalenz ist die Wahrscheinlichkeit, dass ein Patient ein positives Testergebnis erhält, unabhängig davon, ob er die Krankheit tatsächlich hat oder nicht.
+        4.	Die Prävalenz ist der Anteil der Personen in einer bestimmten Population, die zu einem bestimmten Zeitpunkt an einer bestimmten Krankheit leiden und beeinflusst die prädiktiven Werte.
 
 4)	Ein Screeningverfahren ist eine systematische Untersuchung von asymptomatischen Personen zur Früherkennung einer bestimmten Erkrankung. Welche Aussage trifft nicht zu?
        1.	Ein bevölkerungsweites Screeningverfahren kann eingeführt werden, wenn die Krankheit eine signifikante Gesundheitsbelastung darstellt und wenn eine Kosten-Nutzen-Analyse zeigt, dass das Screeningverfahren ökonomisch vertretbar ist.
