@@ -1,6 +1,6 @@
 # Diagnose & Prognose Tag 1
 
-### Tag 1 
+### Frage 1 
 
 In der Differentialdiagnostik werden verschiedene diagnostische Tests nacheinander ausgeführt um eine Diagnose abzusichern. Welche Aussage ist falsch:<br> 
 
@@ -9,7 +9,7 @@ In der Differentialdiagnostik werden verschiedene diagnostische Tests nacheinand
 3)  Die Differentialdiagnostik erhöht die Prävalenz einer Krankheit in der getesteten Population, was die prädiktiven Werte verbessert.<br> 
 4)  Die Nachtestwahrscheinlichkeit eines zuvor durchgeführten Tests, wird zur Vortestwahrscheinlichkeit eines im Anschluss durchgeführten Tests. <br> 
 
-### Tag 2 
+### Frage 2 
 
  Was ist eine Prävalenz und wofür benötigt man diese in Bezug auf diagnostische Tests? <br> 
  
